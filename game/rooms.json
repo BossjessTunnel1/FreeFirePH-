@@ -1,3 +1,10 @@
 {
-    "rooms": []
+  "rooms": [
+    {
+      "id": "ROOM001",
+      "name": "ROOM001",
+      "maxPlayers": 8,
+      "players": []
+    }
+  ]
 }
