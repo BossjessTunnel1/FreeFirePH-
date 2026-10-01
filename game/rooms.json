@@ -1,0 +1,10 @@
+{
+    "rooms": [
+        {
+            "id": "ROOM001",
+            "name": "Deathmatch",
+            "maxPlayers": 8,
+            "players": []
+        }
+    ]
+}
