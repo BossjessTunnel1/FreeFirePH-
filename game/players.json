@@ -1,13 +1,13 @@
 [
   {
     "id": "13e31dadc5876687",
-    "name": "Jjj",
-    "roomId": "188288",
+    "name": "Player",
+    "roomId": "ROOM001",
     "x": 500,
     "y": 500,
     "angle": 0,
-    "health": 80,
-    "score": 2200,
-    "lastUpdate": 1790898086146
+    "health": 100,
+    "score": 0,
+    "lastUpdate": 1790898098466
   }
 ]
