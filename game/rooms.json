@@ -15,6 +15,12 @@
       "players": [
         "13e31dadc5876687"
       ]
+    },
+    {
+      "id": "188288",
+      "name": "188288",
+      "maxPlayers": 8,
+      "players": []
     }
   ]
 }
